@@ -44,3 +44,19 @@ self.b_TensorRTMode = False, program will use .pt file to detect person wearing 
 
 # Model
 [Model](https://drive.google.com/drive/folders/1IkrbvLPiS0b8fu-ELpd0ViE5tKB9dmrl?usp=drive_link)
+
+# Computer environment
+
+OS:WIN11
+
+NVIDIA GeForce RTX 3060 Laptop
+
+CUDA11.8 + cudnn8.9.6 + TensorRT 8.6 GA
+
+torch=2.1.2+cu118
+
+# Reference
+[YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT)
+
+
+
