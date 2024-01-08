@@ -47,7 +47,7 @@ self.b_TensorRTMode = False, program will use .pt file to detect person wearing 
 
 # Computer environment
 
-OS:WIN11
+OS:WIN11 / WSL Ubuntu-20.04
 
 NVIDIA GeForce RTX 3060 Laptop
 
